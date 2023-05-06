@@ -6,10 +6,10 @@
 
 
 ## ⚡ **Skills:**
-- R
-- PYTHON
-- SAS
-- STATA
+- #### R
+- #### PYTHON
+- #### SAS
+- #### STATA
 
 
 ## 📫 **How to reach me:**
@@ -19,5 +19,6 @@
 
 ## 😜 **Education and fun facts:**
 - I pursued my BSc in Statistics at the University of Florence (Italy), then moved to Brescia (Italy) to study Data Science at the Catholic University of the Sacred Heart
-- I was born in Oslo, Norway
+- Half Norwegian and half Italian
+- Math and IT enthusiats
 - My passions are sports, music, dancing and traveling
