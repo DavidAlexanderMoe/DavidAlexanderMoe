@@ -6,9 +6,9 @@
 
 
 ## ⚡ **Skills:**
-- PYTHON
 - R
 - SAS
+- PYTHON
 - STATA
 
 
