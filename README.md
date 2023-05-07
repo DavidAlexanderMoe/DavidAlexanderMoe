@@ -21,4 +21,4 @@
 - I pursued my BSc in Statistics at the University of Florence (Italy), then moved to Brescia (Italy) to study Data Science at the Catholic University of the Sacred Heart
 - Half Norwegian and half Italian
 - Math and IT enthusiats
-- My passions are sports, music, dancing and traveling
+- My passions are sports, music, traveling and dancing!🎶
