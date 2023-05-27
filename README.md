@@ -5,7 +5,7 @@
 #### You can find my public projects and contributions in the [`repository section`](https://github.com/DavidAlexanderMoe?tab=repositories).
 
 
-## ⚡ **Programming skills:**
+## ⚡ **Programming languages:**
 - PYTHON - R - SAS
 
 ## 📫 **How to reach me:**
