@@ -5,12 +5,8 @@
 #### You can find my public projects and contributions in the [`repository section`](https://github.com/DavidAlexanderMoe?tab=repositories).
 
 
-## ⚡ **Skills:**
-- #### PYTHON
-- #### R
-- #### SAS
-- #### STATA
-
+## ⚡ **Programming skills:**
+- PYTHON - R - SAS
 
 ## 📫 **How to reach me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-alexander-moe-a9674224a/)
