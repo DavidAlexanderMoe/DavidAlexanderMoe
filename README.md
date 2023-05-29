@@ -16,5 +16,5 @@
 ## :man_dancing: **Education and fun facts:**
 - I pursued my BSc in Statistics at the University of Florence (Italy), then moved to Brescia (Italy) to study Data Science at the Catholic University of the Sacred Heart
 - Half Norwegian and half Italian
-- Math and IT enthusiats
+- Big Math, IT and Data Science enthusiast
 - My passions are sports, music, traveling and dancing!🎶
