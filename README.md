@@ -1,4 +1,8 @@
-<h1>Hi 👋, I'm David!</h1>
+<div align="center">
+
+# Hi 👋, I'm David!
+
+</div>
 
 #### I am a Statistics and Data Science student currently living in Italy.
 
