@@ -6,7 +6,7 @@
 
 #### I am a Statistics and Data Science student currently living in Italy.
 
-#### You can find some of my public projects and contributions in the [`repository section`](https://github.com/DavidAlexanderMoe?tab=repositories).
+#### You can find my public projects and contributions in the [`repository section`](https://github.com/DavidAlexanderMoe?tab=repositories).
 
 
 ## ⚡ **Main programming languages:**
