@@ -10,7 +10,7 @@
 
 
 ## ⚡ **Main programming languages:**
-#### R - PYTHON
+####  PYTHON - R
 
 
 ## 📫 **How to reach me:**
