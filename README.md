@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm David!
-#### I am a Statistics and Data Science student currently living in Italy.
+#### I am a Data Scientist and Statistician currently living in Italy.
 #### You can find my projects, work, and curiosities in the [`repository section`](https://github.com/DavidAlexanderMoe?tab=repositories).
 ## :arrow_down: :arrow_down: Main projects pinned below! :arrow_down: :arrow_down:
 
